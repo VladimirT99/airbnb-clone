@@ -1,1 +1,1 @@
-My first code project using NextJS and TailwindCSS.
+My first project using NextJS and TailwindCSS.
